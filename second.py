@@ -1,1 +1,2 @@
-print('Conflict resolved')
+print('Hello')
+print('Cursor')
